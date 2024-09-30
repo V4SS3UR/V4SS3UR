@@ -3,9 +3,11 @@
 
 ![](https://komarev.com/ghpvc/?username=V4SS3UR&color=yellow&style=for-the-badge&abbreviated=true)
 
-- 🔭 I’m currently working on [Jikan](https://github.com/V4SS3UR/Jikan_TimeTracking-Tool_Public-demo)
+- 🚀 Self-taught coder
+- 💻 Currently working on [Jikan](https://github.com/V4SS3UR/Jikan_TimeTracking-Tool_Public-demo) and PLM Teamcenter SOA
 - 💬 Ask me about **WPF**
-  
+- 📈 Constantly leveling up my skills
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">    
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
