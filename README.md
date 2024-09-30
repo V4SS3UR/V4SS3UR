@@ -1,34 +1,18 @@
-<h1 align="center">Hi 👋, I'm V4SS3UR</h1>
-<h3 align="center">Passionate Developer</h3>
+![github-header-image](https://github.com/user-attachments/assets/00c72e76-7ce3-4fba-80f8-71b9f4394d7b)
 
-![](https://komarev.com/ghpvc/?username=V4SS3UR&color=yellow&style=for-the-badge&abbreviated=true)
+ **<h3 align="left">🚀 Self-taught coder with a passion for building scalable tools and applications, focused on delivering robust performance and seamless user experiences.</h3>**
 
-- 🚀 Self-taught coder
-- 💻 Currently working on [Jikan](https://github.com/V4SS3UR/Jikan_TimeTracking-Tool_Public-demo) and PLM Teamcenter SOA
-- 💬 Ask me about **WPF**
-- 📈 Constantly leveling up my skills
+**<h3 align="left">Rapid Fire</h3>**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">    
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="VB.NET" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  </a>  
+- 💻 I'm currently working on: **[Jikan](https://github.com/V4SS3UR/Jikan_TimeTracking-Tool_Public-demo)** and **PLM Teamcenter SOA**
+- 💬 Ask me about: **C#** and **WPF**
+
+ **<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://skillicons.dev/icons?i=cs" height="32" alt="CSharp" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=dotnet" height="32" alt="ASP.NET" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=java" height="32" alt="Java" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="32" alt="ASP.NET" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=sqlite" height="32" alt="SQLite" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="32" alt="Microsoft SQL Server" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=androidstudio" height="32" alt="Androidstudio" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=visualstudio" height="32" alt="Visualstudio" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=unity" height="32" alt="Unity" style="margin-right: 4px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=V4SS3UR&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
